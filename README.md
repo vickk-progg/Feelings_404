@@ -44,56 +44,36 @@ For Hardware:
 None
 
 ### Implementation
-For Software:
+For Software:Anything would do 
 # Installation
-[commands]
+
 
 # Run
-[commands]
+Just type in your problems 
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
+![alt text](image.png)
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
+nil
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
+nil
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+nil
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://vvrl.cc/x2vfq8
+“This is Feelings404 — the AI therapist that doesn’t comfort you, it calls you out.
+No soft talk, no sugarcoating — just savage responses that roast your excuses, mock your problems, and somehow... make you want to do better.
+It listens, it insults, and it helps.
+Welcome to emotional damage — as a service.”
 
 # Additional Demos
-[Add any extra demo materials/links]
+Naaah 
 
 ## Team Contributions
 No one
