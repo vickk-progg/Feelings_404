@@ -5,35 +5,43 @@
 
 
 ## Basic Details
-### Team Name: 
+### Team Name: Alone aaahh
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Vishvesh - Sree buddha 
 
 ### Project Description
-[2-3 lines about what your project does]
+Feelings404 is an AI therapist with no filter, no pity, and zero emotional support. It roasts you, mocks your excuses, and breaks your ego—just to build you back stronger. Harsh? Yes. Helpful? Surprisingly. If you want comfort, look elsewhere. If you want change, let the emotional damage begin.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Most mental health and motivational apps offer comfort, empathy, and gentle encouragement. But for many people — especially those who:
+
+shut down at "soft talk"
+
+ignore coddling advice
+
+respond better to harsh truth
+
+find dark humor therapeutic
+
+need a wake-up call, not a lullaby
+
+…this approach doesn’t work
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+A no-mercy, emotionally unavailable AI that mocks, roasts, and bullies you into fixing your life.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+-  Typescript
+-  React 
+-  Lucide React
+-  ChatGPT Bolt.new 
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+None
 
 ### Implementation
 For Software:
@@ -88,10 +96,7 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
+No one
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
