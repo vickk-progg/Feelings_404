@@ -68,7 +68,7 @@ nil
 
 ### Project Demo
 # Video
-<video controls src="Screen Recording 2025-08-02 122714.mp4" title="Title"></video>
+<video controls src="20250802-0935-44.1426429.mp4" title="Title"></video>
 “This is Feelings404 — the AI therapist that doesn’t comfort you, it calls you out.
 No soft talk, no sugarcoating — just savage responses that roast your excuses, mock your problems, and somehow... make you want to do better.
 It listens, it insults, and it helps.
